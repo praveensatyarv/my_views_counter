@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "customer_churn_analysis",
+    "uk_flights_anomaly_detection",
+    "seoul_bike_sharing_demand",
+    "emotion_detection_tweets",
+    "Online_Shoppers_Purchasing_Intent",
+    "Second-Hand_Cars_Market"
   ]
 }
